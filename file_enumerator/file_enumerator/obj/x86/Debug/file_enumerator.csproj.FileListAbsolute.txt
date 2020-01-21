@@ -1,0 +1,4 @@
+C:\Users\Dustin\Documents\Xamarin Projects\file_enumerator\file_enumerator\bin\Debug\file_enumerator.exe
+C:\Users\Dustin\Documents\Xamarin Projects\file_enumerator\file_enumerator\bin\Debug\file_enumerator.pdb
+C:\Users\Dustin\Documents\Xamarin Projects\file_enumerator\file_enumerator\obj\x86\Debug\file_enumerator.exe
+C:\Users\Dustin\Documents\Xamarin Projects\file_enumerator\file_enumerator\obj\x86\Debug\file_enumerator.pdb

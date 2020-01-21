@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files_directory>
+  <files>
+    <file_ext>.jpg</file_ext>
+    <count>4624</count>
+    <total_size>5GB</total_size>
+  </files>
+  <files>
+    <file_ext>.png</file_ext>
+    <count>1849</count>
+    <total_size>2.4GB</total_size>
+  </files>
+  <files>
+    <file_ext>.ini</file_ext>
+    <count>49</count>
+    <total_size>8.8KB</total_size>
+  </files>
+</files_directory>
